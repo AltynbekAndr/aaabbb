@@ -1,0 +1,31 @@
+﻿https://yadi.sk/d/ekjgHsFO3MheWZ
+
+mvn install:install-file -Dfile=sqljdbc4.jar -DgroupId=com.microsoft.sqlserver -DartifactId=sqljdbc4 -Dversion=4.0 -Dpackaging=jar
+https://stackoverflow.com/questions/19537396/missing-artifact-com-microsoft-sqlserversqljdbc4jar4-0
+
+
+context-spring-mvc.xml    setting
+
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+dbc:sqlserver://server:port;DatabaseName=dbname
+
+
+
+
+номер телефона того парня 0550334346
+daily.02@mail.ru
+
+камера и surfaceView
+rtsp
+
+git init
+git status
+git add .
+git status
+git commit -m "comment"
+==================================================================
+==================================================================
+viewmodel_offset_x -1viewmodel_offset_y 1viewmodel_fov 68viewmodel_offset_z -1
+==================================================================
+cht_bEnableCheats = 3
+==================================================================
